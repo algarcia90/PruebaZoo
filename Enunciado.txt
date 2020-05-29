@@ -1,0 +1,17 @@
+Hacer un programa que muestre el precio total de las entradas de un grupo de personas al zoo.
+Niños de 2 o menos años no pagan.
+hasta los 12 años: 14€
+65 o mas años: 18€
+Resto: 23€.
+
+El programa pedirá la edad de los componentes del grupo, de una en una, y parará de pedir en el momento que metamos un 0.
+
+EL programa devolverá lo siguiente:
+
+
+1 entradas de baby (0€):             0.00€
+3 entradas de menores (14€):        42.00€
+2 entradas normales (23€):          46.00€
+1 entradas de jubilado (18€):       18.00€
+                                    ------
+                                   106.00€
